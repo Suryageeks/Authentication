@@ -1,3 +1,3 @@
 # Authentication
 -----------------------------------------------------------
-<h2>Authentication system built from scratch</h2>
+<h3>Authentication system built from scratch</h3>
